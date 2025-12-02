@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **mzn.h.marei@gmail.com**
 
-- 📄 Know about my experience [https://drive.google.com/file/d/1NjAKw9F9S3yEdvr7Y0IbNXGZWa5FzImi/view?usp=sharing](https://drive.google.com/file/d/1NjAKw9F9S3yEdvr7Y0IbNXGZWa5FzImi/view?usp=sharing)
+- 📄 Know about my experience [[https://drive.google.com/file/d/1NjAKw9F9S3yEdvr7Y0IbNXGZWa5FzImi/view?usp=sharing](https://tinyurl.com/MazenMareiCV)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
