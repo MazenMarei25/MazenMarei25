@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mazen Marei</h1>
+<h1 align="center">Hello World 👋, I'm Mazen Marei</h1>
 <h3 align="center">A Robotics Engineer and a Computer Vision Enthusiast From Egypt 🤖 </h3>
 
 I am a Mechatronics Engineer with experience in R&D, control systems, robotics and AI. Skilled in integrating hardware and software for real-world applications, with expertise in machine learning, model-based design, and embedded systems. Passionate about problem-solving and innovation, with a track record of outstanding performance and continuous learning.
