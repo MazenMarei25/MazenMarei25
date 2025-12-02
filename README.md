@@ -9,9 +9,11 @@
 
 - 📫 How to reach me **mzn.h.marei@gmail.com**
 
+- 📄 Know about my experience [https://drive.google.com/file/d/1NjAKw9F9S3yEdvr7Y0IbNXGZWa5FzImi/view?usp=sharing](https://drive.google.com/file/d/1NjAKw9F9S3yEdvr7Y0IbNXGZWa5FzImi/view?usp=sharing)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/mazenhmarei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mazenhmarei" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mazen marei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mazen marei" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
