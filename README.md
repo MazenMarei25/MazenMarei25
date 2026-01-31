@@ -5,6 +5,8 @@ I am a Mechatronics Engineer with experience in R&D, control systems, robotics a
 
 - 🌱**I’m currently learning** Tensorflow, Pytortch and ROS II
 
+- ⚙️**Curently working on** [https://github.com/MazenMarei25/Machine-Learning-Practice-](https://github.com/MazenMarei25/Machine-Learning-Practice-)
+
 - 👨‍💻 **All of my projects are available at** [https://github.com/MazenMarei25/UniProjects](https://github.com/MazenMarei25/UniProjects)
 
 - 📫 **How to reach me** mzn.h.marei@gmail.com
