@@ -25,4 +25,6 @@ I am a Mechatronics Engineer with experience in R&D, control systems, robotics a
        height="30"
        width="40" />
 </a>
+<a href="https://kaggle.com/mazenmarei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mazenmarei" height="30" width="40" /></a>
+</p>
 
